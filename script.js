@@ -9,7 +9,7 @@ console.log("Hello 🌎");
 
 /* 
 Make the "Click me!" button move when the visitor clicks it:
-- First add the button to the page by following the "Next steps" in the README
+- First add the button to the page by following steps in the TODO
 */
 const btn = document.querySelector("button"); // Get the button from the page
 // Detect clicks on the button
