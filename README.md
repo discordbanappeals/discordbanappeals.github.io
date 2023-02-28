@@ -2,7 +2,7 @@
 
 This is a basic HTML starter project you can build on however you like. No need to save. While you develop your site, your changes will happen ✨ immediately in the preview window. On the left you'll see the files that make up your site, including HTML, JavaScript, and CSS. You can upload assets like images or audio in `assets`. The rest is up to you and your imagination. 🦄
 
-_Last updated: 23 Feb 2023_
+_Last updated: 28 Feb 2023_
 
 ## What's in this project?
 
@@ -21,6 +21,22 @@ Open each file and check out the comments (in gray) for more info.
 Take a look in `TODO.md` for next steps you can try out in your new site!
 
 ___Want a minimal version of this project to build your own website? Check out [Blank Website](https://glitch.com/edit/#!/remix/glitch-blank-website)!___
+
+## Ready to share your site?
+
+Add these meta tags for SEO and social sharing between your page `<head></head>` tags, changing the values for your site:
+
+```
+<link rel="canonical" href="https://glitch-hello-website.glitch.me/" />
+<meta name="description" content="A simple website, built with Glitch. Remix it to get your own."/>
+<meta name="robots" content="index,follow" />
+<meta property="og:title" content="Hello World!" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://glitch-hello-website.glitch.me/" />
+<meta property="og:description" content="A simple website, built with Glitch. Remix it to get your own."/>
+<meta property="og:image" content="https://cdn.glitch.com/605e2a51-d45f-4d87-a285-9410ad350515%2Fhello-website-social.png?v=1616712748147"/>
+<meta name="twitter:card" content="summary" />
+```
 
 ![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
 

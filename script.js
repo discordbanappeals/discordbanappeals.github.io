@@ -1,6 +1,5 @@
 /*
-This is your site JavaScript code - you can add interactivity and carry out processing
-- Initially the JS writes a message to the console, and moves a button you can add from the TODO
+  This is your site JavaScript code - you can add interactivity!
 */
 
 // Print a message in the browser's dev tools console each time the page loads
@@ -9,19 +8,27 @@ console.log("Hello 🌎");
 
 /* 
 Make the "Click me!" button move when the visitor clicks it:
-- First add the button to the page by following steps in the TODO
+- First add the button to the page by following the steps in the TODO 🚧
 */
 const btn = document.querySelector("button"); // Get the button from the page
-// Detect clicks on the button
-if (btn) {
-  btn.onclick = function() {
-    // The JS works in conjunction with the 'dipped' code in style.css
+if (btn) { // Detect clicks on the button
+  btn.onclick = function () {
+    // The 'dipped' class in style.css changes the appearance on click
     btn.classList.toggle("dipped");
   };
 }
 
-// This is a single line JS comment
-/*
-This is a comment that can span multiple lines 
-- use comments to make your own notes!
-*/
+
+// ----- GLITCH STARTER PROJECT HELPER CODE -----
+
+// Open file when the link in the preview is clicked
+let goto = (file, line) => {
+  window.parent.postMessage(
+    { type: "glitch/go-to-line", payload: { filePath: file, line: line } }, "*"
+  );
+};
+// Get the file opening button from its class name
+const filer = document.querySelectorAll(".fileopener");
+filer.forEach((f) => {
+  f.onclick = () => { goto(f.dataset.file, f.dataset.line); };
+});
