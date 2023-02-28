@@ -12,7 +12,7 @@ _Last updated: 28 Feb 2023_
 
 ← `style.css`: CSS files add styling rules to your content. The CSS applies styles to the elements in your HTML page. The style rules also make the image move when you click it.
 
-← `script.js`: If you're feeling fancy you can add interactivity to your site with JavaScript. The code in the JavaScript file runs when the page loads, and when the visitor clicks the button you can add below.
+← `script.js`: If you're feeling fancy you can add interactivity to your site with JavaScript. The code in the JavaScript file runs when the page loads, and when the visitor clicks the button you can add using the code in the TODO.
 
 Open each file and check out the comments (in gray) for more info.
 
