@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirecting...</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="https://cdn.glitch.global/6045212c-5d19-4a0b-8318-212c078291f9/ban_logo.png?v=1678637076724" />
+  </head>
+  <body>
+    <div class="app">
+      <header class="header">
+        <div class="header-inner">
+          <a href="/" class="logo">
+            <img src="https://cdn.glitch.global/6045212c-5d19-4a0b-8318-212c078291f9/ban_logo.png?v=1678637076724" alt="Discord Logo" style="width: 25px; height: 25px;" />
+          </a>
+        </div>
+      </header>
+      <main class="main">
+        <div class="main-inner">
+          <h1 class="main-title">Redirecting...</h1>
+          <p class="main-description">Please wait while we redirect you to the next page</p>
+          <div class="loader"></div>
+        </div>
+      </main>
+      <footer class="footer">
+        <div class="footer-inner">
+          <p>&copy; 2023 CCR Astra <a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> | <a href="/privacy.html">Privacy Policy</a> | <a href="/terms.html">Terms of Service</a> | We are not affiated nor endorsed by Discord Inc.</p>
+        </div>
+      </footer>
+    </div>
+
+    <script>
+      const queryString = window.location.search;
+      const urlParams = new URLSearchParams(queryString);
+      const nextPage = urlParams.get('next');
+
+      if (!nextPage) {
+        window.location.href = '/';
+      } else {
+        const decodedUrl = decodeURIComponent(atob(nextPage));
+        const loader = document.querySelector('.loader');
+        setTimeout(() => {
+          window.location.href = decodedUrl;
+        }, 5000);
+      }
+    </script>
+  </body>
+</html>

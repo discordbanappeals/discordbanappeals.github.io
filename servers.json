@@ -1,0 +1,16 @@
+{
+  "servers": [
+    {
+      "name": "Server 1",
+      "description": "Description of Server 1",
+      "icon": "https://via.placeholder.com/80x80",
+      "appealUrl": "#"
+    },
+    {
+      "name": "Server 2",
+      "description": "Description of Server 2",
+      "icon": "https://via.placeholder.com/80x80",
+      "appealUrl": "#"
+    }
+  ]
+}
