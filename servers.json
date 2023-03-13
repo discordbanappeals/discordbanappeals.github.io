@@ -2,9 +2,9 @@
   "servers": [
     {
       "name": "EchoDev",
-      "description": "Description of Server 1",
+      "description": "Your best option for unblocked games on the internet.",
       "icon": "https://cdn.discordapp.com/icons/971769908205604864/b0923ff73759049c0f25cdfc167fc87a.webp?size=96",
-      "appealUrl": "#"
+      "appealUrl": "redirect.html?https://dyno.gg/form/c79b3de5"
     },
     {
       "name": "Things Network",
