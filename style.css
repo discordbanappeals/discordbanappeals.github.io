@@ -15,12 +15,10 @@ body {
 
 a {
   color: #fff;
-  text-decoration: underline dotted;
+  text-decoration:none;
 
 }
-a:hover {
-  text-decoration: ;
-}
+
 
 ul {
   list-style: none;

@@ -89,9 +89,11 @@
       const nextPage = urlParams.get("next");
 
       if (!nextPage) {
+        alert("Invalid url, sending you to the homepage...")
         window.location.href = "/";
       } else {
         const decodedUrl = decodeURIComponent(atob(nextPage));
+        console.log(decodedUrl);
         const loader = document.querySelector(".loader");
         setTimeout(() => {
           window.location.href = decodedUrl;

@@ -1,0 +1,8 @@
+a {
+  color: #fff;
+  text-decoration:underline dotted;
+}
+a:hover {
+  color: lightblue;
+  text-decoration:underline;
+}
