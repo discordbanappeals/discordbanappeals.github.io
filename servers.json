@@ -9,7 +9,7 @@
     },
     {
       "name": "Shuttle",
-      "description": "Shuttle Network is the best proxy Discord server. Our speedy proxies are attractive, unbelievably fast, and trusted.",
+      "description": "Shuttle Network is the best proxy Discord server. Our proxies are fast and trusted.",
       "icon": "https://cdn.discordapp.com/icons/1056203335813824562/a_b95256b359e51d4d9715a77311d71126.webp",
       "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=aHR0cHM6Ly9keW5vLmdnL2Zvcm0vN2JjNmNjZGI=",
       "premium": true
@@ -23,7 +23,7 @@
     },
     {
       "name": "ShadrYT Revived",
-      "description": "N/A",
+      "description": "The official server for ShadrYT! Like and subscribe!",
       "icon": "https://cdn.discordapp.com/icons/1031977342769320019/e2068813cedd31a1fd4802d3ef814049.webp",
       "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=aHR0cHM6Ly9keW5vLmdnL2Zvcm0vZDdhNTRhYzI=",
       "premium": false
@@ -37,38 +37,42 @@
     },
     {
       "name": "Carno's Domain",
-      "description": "N/A",
+      "description": "Welcome to the discord server for Cooking Carno! We hope you enjoy your stay.",
       "icon": "https://cdn.discordapp.com/icons/1032867340179734538/6d3a5386522308a4b8f563c900341a80.webp",
       "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=aHR0cHM6Ly9keW5vLmdnL2Zvcm0vY2I3YmViNTM=",
       "premium": false
     },
-{
+    {
       "name": "Cupid",
       "description": "N/A",
       "icon": "https://cdn.discordapp.com/icons/1042661495777021982/17991e9034a00bd58afccde55711c8f4.webp",
       "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=aHR0cHM6Ly9keW5vLmdnL2Zvcm0vNjU5MDg1YTU=",
       "premium": false
-    },{
+    },
+    {
       "name": "PenguDev",
       "description": "The Official Development Server Of The PenguBot",
       "icon": "https://cdn.discordapp.com/icons/1006991524527099995/fa4bc332a79eca48b97c872bb853e36e.png?size=4096",
       "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=aHR0cHM6Ly9keW5vLmdnL2Zvcm0vYjY3NzIyZTQ=",
       "premium": false
-    },{
+    },
+    {
       "name": "Rena Network",
       "description": "N/A",
       "icon": "https://via.placeholder.com/80x80",
       "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=aHR0cHM6Ly9keW5vLmdnL2Zvcm0vN2IyMjBiZjk=",
       "premium": false
-    },{
+    },
+    {
       "name": "Math Study",
-      "description": "N/A",
+      "description": "We are a group that works on making life at school easy.",
       "icon": "https://cdn.discordapp.com/icons/934807331668099142/454b2347bad946e911e0f15932b58255.png?size=4096",
       "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=aHR0cHM6Ly9keW5vLmdnL2Zvcm0vN2JjNmNjZGI=",
       "premium": true
-    },{
+    },
+    {
       "name": "Art Class",
-      "description": "Art Class is an unblocking community Discord focusing on giving you the best unblocked games experience.",
+      "description": "Art Class is an unblocking Discord giving you the best unblocked games experience.",
       "icon": "https://cdn.discordapp.com/icons/967446591373983804/672d0fe5b6ad8c663b0b32d913df0ece.png?size=4096",
       "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=aHR0cHM6Ly9keW5vLmdnL2Zvcm0vY2IyN2VjOTQ=",
       "premium": false
