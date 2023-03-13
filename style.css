@@ -15,10 +15,8 @@ body {
 
 a {
   color: #fff;
-  text-decoration:none;
-
+  text-decoration: none;
 }
-
 
 ul {
   list-style: none;
@@ -189,7 +187,7 @@ ul {
 }
 
 .server-action-box {
-  padding: 3px
+  padding: 3px;
 }
 
 .server-action {

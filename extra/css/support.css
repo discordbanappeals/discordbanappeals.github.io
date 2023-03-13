@@ -1,8 +1,8 @@
 a {
   color: #fff;
-  text-decoration:underline dotted;
+  text-decoration: underline dotted;
 }
 a:hover {
   color: lightblue;
-  text-decoration:underline;
+  text-decoration: underline;
 }
