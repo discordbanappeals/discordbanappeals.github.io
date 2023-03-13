@@ -4,19 +4,42 @@
       "name": "EchoDev",
       "description": "Your best option for unblocked games on the internet.",
       "icon": "https://cdn.discordapp.com/icons/971769908205604864/b0923ff73759049c0f25cdfc167fc87a.webp?size=96",
-      "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=aHR0cHM6Ly9keW5vLmdnL2Zvcm0vYzc5YjNkZTU="
+      "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=aHR0cHM6Ly9keW5vLmdnL2Zvcm0vYzc5YjNkZTU=",
+      "premium": true
     },
     {
-      "name": "Things Network",
-      "description": "Official Server for Things Network",
-      "icon": "https://cdn.discordapp.com/attachments/1072629031415070810/1084665407127949372/icon.gif",
-      "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=aHR0cHM6Ly9keW5vLmdnL2Zvcm0vZjFjMDA5Njk="
-    },
-{
       "name": "Shuttle",
       "description": "",
       "icon": "https://via.placeholder.com/80x80",
-      "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next="
+      "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=",
+      "premium": true
+    },
+    {
+      "name": "Galactic Network",
+      "description": "N/A",
+      "icon": "https://via.placeholder.com/80x80",
+"appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=",
+      "premium": false
+    },
+    {
+      "name": "",
+      "description": "N/A",
+      "icon": "https://via.placeholder.com/80x80",
+      "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=",
+      "premium": false
+    },{
+      "name": "",
+      "description": "N/A",
+      "icon": "https://via.placeholder.com/80x80",
+      "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=",
+      "premium": false
+    },{
+      "name": "",
+      "description": "N/A",
+      "icon": "https://via.placeholder.com/80x80",
+      "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=",
+      "premium": false
     }
+
   ]
 }
