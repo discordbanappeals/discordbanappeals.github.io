@@ -9,7 +9,7 @@
     },
     {
       "name": "Shuttle",
-      "description": "",
+      "description": "N/A",
       "icon": "https://cdn.discordapp.com/icons/1056203335813824562/a_b95256b359e51d4d9715a77311d71126.webp",
       "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=",
       "premium": true
@@ -24,19 +24,19 @@
     {
       "name": "ShadrYT Revived",
       "description": "N/A",
-      "icon": "https://via.placeholder.com/80x80",
+      "icon": "https://cdn.discordapp.com/icons/1031977342769320019/e2068813cedd31a1fd4802d3ef814049.webp",
       "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=",
       "premium": false
     },{
       "name": "Things Network",
       "description": "Official server for Things Network",
-      "icon": "https://via.placeholder.com/80x80",
+      "icon": "https://cdn.discordapp.com/icons/1082514585225003210/a_caf9b859be1d289cce0e3b3cb62c3767.webp",
       "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=",
       "premium": false
     },{
       "name": "Carno's Domain",
       "description": "N/A",
-      "icon": "https://via.placeholder.com/80x80",
+      "icon": "https://cdn.discordapp.com/icons/1032867340179734538/6d3a5386522308a4b8f563c900341a80.webp",
       "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=",
       "premium": false
     }
