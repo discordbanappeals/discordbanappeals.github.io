@@ -15,7 +15,11 @@ body {
 
 a {
   color: #fff;
-  text-decoration: none;
+  text-decoration: underline dotted;
+
+}
+a:hover {
+  text-decoration: ;
 }
 
 ul {
