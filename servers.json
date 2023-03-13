@@ -41,6 +41,37 @@
       "icon": "https://cdn.discordapp.com/icons/1032867340179734538/6d3a5386522308a4b8f563c900341a80.webp",
       "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=",
       "premium": false
+    },
+{
+      "name": "Cupid",
+      "description": "N/A",
+      "icon": "https://via.placeholder.com/80x80",
+      "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=",
+      "premium": false
+    },{
+      "name": "PenguDev",
+      "description": "N/A",
+      "icon": "https://via.placeholder.com/80x80",
+      "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=",
+      "premium": false
+    },{
+      "name": "Rena Network",
+      "description": "N/A",
+      "icon": "https://via.placeholder.com/80x80",
+      "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=",
+      "premium": false
+    },{
+      "name": "Math Study",
+      "description": "N/A",
+      "icon": "https://via.placeholder.com/80x80",
+      "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=",
+      "premium": true
+    },{
+      "name": "Art Class",
+      "description": "N/A",
+      "icon": "https://via.placeholder.com/80x80",
+      "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=aHR0cHM6Ly9keW5vLmdnL2Zvcm0vY2IyN2VjOTQ=",
+      "premium": true
     }
   ]
 }
