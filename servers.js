@@ -13,7 +13,7 @@ searchInput.addEventListener("input", () => {
       .querySelector(".server-description")
       .textContent.toLowerCase(); // Get the server description and normalize it
 
-    if (name.includes(searchValue) || description.includes(searchValue)) {
+    if (name.includes(searchValue) || description.includes(searchValue)) { // Here we search the server title and description
       server.style.display = "flex"; // Show the server if it matches the search value
       numServersFound++; // Increment the number of servers found
     } else {
@@ -23,10 +23,10 @@ searchInput.addEventListener("input", () => {
 
   // If no servers were found, create an element saying "No servers found"
   if (numServersFound === 0) {
-    const noServersFound = document.createElement("p");
-    noServersFound.classList.add("no-servers-found");
-    noServersFound.textContent = "No servers found.";
-    serverList.appendChild(noServersFound);
+    const noServersFound = document.createElement("p"); // Create the element
+    noServersFound.classList.add("no-servers-found"); // Give it a CSS class
+    noServersFound.textContent = "No servers found."; // Add the text
+    serverList.appendChild(noServersFound); // Add the element
   } else {
     // Otherwise, remove the "No servers found" element if it exists
     const noServersFound = document.querySelector(".no-servers-found");
@@ -101,5 +101,5 @@ function createServerListing(server, isPremium) {
     </div>
   `;
 
-  return serverItem;
+  return serverItem; // Return the finished product
 }
