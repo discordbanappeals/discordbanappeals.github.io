@@ -11,7 +11,7 @@
       "name": "Shuttle",
       "description": "N/A",
       "icon": "https://cdn.discordapp.com/icons/1056203335813824562/a_b95256b359e51d4d9715a77311d71126.webp",
-      "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=",
+      "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=aHR0cHM6Ly9keW5vLmdnL2Zvcm0vN2JjNmNjZGI=",
       "premium": true
     },
     {
@@ -64,14 +64,14 @@
       "name": "Math Study",
       "description": "N/A",
       "icon": "https://via.placeholder.com/80x80",
-      "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=",
+      "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=aHR0cHM6Ly9keW5vLmdnL2Zvcm0vN2JjNmNjZGI=",
       "premium": true
     },{
       "name": "Art Class",
-      "description": "N/A",
+      "description": "Art Class is an unblocking community Discord focusing on giving you the best unblocked games experience.",
       "icon": "https://via.placeholder.com/80x80",
       "appealUrl": "https://ban-appeals-v2.glitch.me/redirect.html?next=aHR0cHM6Ly9keW5vLmdnL2Zvcm0vY2IyN2VjOTQ=",
-      "premium": true
+      "premium": false
     }
   ]
 }

@@ -1,3 +1,41 @@
+// Get the search input element from the HTML DOM
+const searchInput = document.querySelector(".search-input");
+
+// Add an event listener to the search input to listen for changes
+searchInput.addEventListener("input", () => {
+  const searchValue = searchInput.value.toLowerCase().trim(); // Get the search value from the input and normalize it
+  let numServersFound = 0; // Initialize the number of servers found to 0
+
+  // Loop through each server and show/hide it based on whether it matches the search value
+  document.querySelectorAll(".server").forEach((server) => {
+    const name = server.querySelector(".server-name").textContent.toLowerCase(); // Get the server name and normalize it
+    const description = server
+      .querySelector(".server-description")
+      .textContent.toLowerCase(); // Get the server description and normalize it
+
+    if (name.includes(searchValue) || description.includes(searchValue)) {
+      server.style.display = "flex"; // Show the server if it matches the search value
+      numServersFound++; // Increment the number of servers found
+    } else {
+      server.style.display = "none"; // Hide the server if it doesn't match the search value
+    }
+  });
+
+  // If no servers were found, create an element saying "No servers found"
+  if (numServersFound === 0) {
+    const noServersFound = document.createElement("p");
+    noServersFound.classList.add("no-servers-found");
+    noServersFound.textContent = "No servers found.";
+    serverList.appendChild(noServersFound);
+  } else {
+    // Otherwise, remove the "No servers found" element if it exists
+    const noServersFound = document.querySelector(".no-servers-found");
+    if (noServersFound) {
+      serverList.removeChild(noServersFound);
+    }
+  }
+});
+
 // Get the server list and loader elements from the HTML DOM
 const serverList = document.querySelector(".server-list");
 const loader = document.querySelector(".loader");
