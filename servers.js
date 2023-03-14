@@ -23,15 +23,13 @@ searchInput.addEventListener("input", () => {
 
   // If no servers were found, create an element saying "No servers found"
   if (numServersFound === 0) {
-    const noServersFound = document.createElement("p"); // Create the element
-    noServersFound.classList.add("no-servers-found"); // Give it a CSS class
-    noServersFound.textContent = "No servers found."; // Add the text
-    serverList.appendChild(noServersFound); // Add the element
+    var noServersText = document.querySelector(".no-servers-found")
+    noServersText.style.display = 'block'; // Make the text visable
   } else {
     // Otherwise, remove the "No servers found" element if it exists
-    const noServersFound = document.querySelector(".no-servers-found");
-    if (noServersFound) {
-      serverList.removeChild(noServersFound);
+    const noServersText = document.querySelector(".no-servers-found");
+    if (noServersText) {
+      noServersText.style.display = 'none'; // Hide the text
     }
   }
 });
