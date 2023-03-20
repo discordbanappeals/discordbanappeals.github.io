@@ -9,8 +9,16 @@
       href="https://cdn.glitch.global/a5fb2594-f3b0-4e60-96a4-680d1ce32aff/ban-hammer-512.webp?v=1663346472029"
     />
     <style>
+      @keyframes shimmer {
+        0%   {box-shadow: 0 2px 4px rgb(255, 194, 11);}
+        50%  {box-shadow: 0 -4px 2px rgb(255, 194, 11);}
+        100% {box-shadow: 0 2px 4px rgb(255, 194, 11);}
+      }
+
       .premium {
         box-shadow: 0 2px 4px rgb(255, 194, 11);
+        animation-name: shimmer;
+        animation-duration: 4s;
       }
       .no-servers-found {
         display: none;
