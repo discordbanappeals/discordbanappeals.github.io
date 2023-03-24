@@ -42,7 +42,7 @@ const loader = document.querySelector(".loader");
 loader.style.display = "block";
 
 // Fetch server data from the servers.json file
-fetch("servers.json")
+fetch(`servers.json?t=${Date.now()}`)
   .then((response) => response.json())
   .then((data) => {
     // Hide the loader when the servers data is loaded
