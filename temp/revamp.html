@@ -33,25 +33,34 @@
       </header>
       <main class="main">
         <div class="main-inner">
-          <h1 class="main-title">Custom Pages</h1>
+          <h1 class="main-title">Revamp in Progress</h1>
           <div class="terms">
             <h2></h2>
             <p>
-              We offer custom pages to our <a href="https://www.patreon.com/DiscordBanAppeals" style="text-decoration: underline">Patrons</a>, depending on the tier. These pages are reserved for non-discord programs that are wanting to use our service. Non-Discord services get a fully customizable page for only $1 a month.
-Discord servers can get a custom redirect url for buying full premium which is $3 a month. We do not exactly like handing out custom pages to discord servers so we limit it in our most expesive tier, meanly because we do not expect people to buy it.
-<h2>
-  What is the difference between the custom URL and Page?
-            </h2>
-Exactly how it sounds! The custom URL is just a redirect page. The custom page is a your own ban appeal page hosted on our site, you can have your appeal form embeded, make it redirect, have some extra socials and add your own CSS! The page is yours, with limitations.
-<h2>
-  Alright, i want a Custom Page or URL!
-            </h2>
-            You can head on over to our <a href="https://www.patreon.com/DiscordBanAppeals" style="text-decoration: underline">Patreon</a> and buy the tier that fits!
-<br>
-You must buy the $1 tier if you are a non-discord server.
-<br>
-You must buy full premium for a custom url ($3/month) or if you want a custom page, you must buy the $10/month tier.
-(You shouldn't really buy it unless you are really trying to support us, the price will probably change but lose some perks)
+              You currently cannot appeal a ban for this server as they are undergoing a server revamp.
+If you manage to fill out an appeal, they will not receive it as they normally would and may not accept your appeal. 
+For the best chance for your appeal to be accepted, please wait until these appeals are available.
+<br><br>
+Estimated Time Remaining:
+<p id="etr"><strong>Loading...</strong></p>
+
+<script>
+var countDownDate = new Date("Apr 20, 2023 00:00:00").getTime();
+var x = setInterval(function() {
+  var now = new Date().getTime();
+  var distance = countDownDate - now;
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+  document.getElementById("etr").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("etr").innerHTML = "<strong> Revamp should be completed by now, please contact us at https://discord.gg/appeal<strong>";
+  }
+}, 1000);
+</script>
             </p>
           </div>
         </div>
