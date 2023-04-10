@@ -52,7 +52,7 @@
     {
       "name": "PenguDev",
       "description": "The Official Development Server Of The PenguBot",
-      "icon": "https://cdn.discordapp.com/icons/1006991524527099995/fa4bc332a79eca48b97c872bb853e36e.png?size=4096",
+      "icon": "https://cdn.discordapp.com/icons/1006991524527099995/fa4bc332a79eca48b97c872bb853e36e.png",
       "appealUrl": "https://ban-appeals.com/redirect.html?next=aHR0cHM6Ly9keW5vLmdnL2Zvcm0vYjY3NzIyZTQ=",
       "premium": false
     },
@@ -64,16 +64,9 @@
       "premium": false
     },
     {
-      "name": "Terminated",
-      "description": "This server violated our ToS",
-      "icon": "https://cdn.discordapp.com/icons/934807331668099142/454b2347bad946e911e0f15932b58255.png?size=4096",
-      "appealUrl": "/",
-      "premium": true
-    },
-    {
       "name": "Art Class",
       "description": "Art Class is an unblocking Discord giving you the best unblocked games experience.",
-      "icon": "https://cdn.discordapp.com/icons/967446591373983804/672d0fe5b6ad8c663b0b32d913df0ece.png?size=4096",
+      "icon": "https://cdn.discordapp.com/icons/967446591373983804/a_0cd83f08a3afb24fb3ea097f89057a7a.gif",
       "appealUrl": "https://ban-appeals.com/redirect.html?next=aHR0cHM6Ly9keW5vLmdnL2Zvcm0vY2IyN2VjOTQ=",
       "premium": false
     },{
