@@ -64,10 +64,10 @@
       "premium": false
     },
     {
-      "name": "Math Study",
-      "description": "We are a group that works on making life at school easy.",
+      "name": "Terminated",
+      "description": "This server violated our ToS",
       "icon": "https://cdn.discordapp.com/icons/934807331668099142/454b2347bad946e911e0f15932b58255.png?size=4096",
-      "appealUrl": "https://dyno.gg/form/7bc6ccdb",
+      "appealUrl": "/",
       "premium": true
     },
     {
