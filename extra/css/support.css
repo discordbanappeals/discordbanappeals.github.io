@@ -1,6 +1,14 @@
 a {
-  color: #fff;
+  color: #fffff;
   text-decoration: underline dotted;
+  background: linear-gradient(90deg, red, orange, yellow, green, blue, purple);
+  background-clip: text;
+  -webkit-background-clip: text;
+text-decoration: underline dotted;
+}
+          a:active {
+  color: transparent;
+  transition: 400ms ease;
 }
 a:hover {
   color: lightblue;
