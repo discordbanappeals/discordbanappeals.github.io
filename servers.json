@@ -19,7 +19,7 @@
       "description": "We are one of the best proxy and unblocking communites out there!",
       "icon": "https://cdn.discordapp.com/icons/837370664909668362/5898e3b781c1307cff345d12f695c00c.png",
       "appealUrl": "https://ban-appeals.com/redirect.html?next=aHR0cHM6Ly9keW5vLmdnL2Zvcm0vYmU4ZDJmZjE=",
-      "premium": true
+      "premium": false
     },
     {
       "name": "ShadrYT Revived",
@@ -69,6 +69,12 @@
       "icon": "https://cdn.discordapp.com/icons/1052209679222194278/0c6805a33e22a3c75a9ef0826c56ab45.png",
       "appealUrl": "https://ban-appeals.com/redirect.html?next=aHR0cHM6Ly9keW5vLmdnL2Zvcm0vZDEzNzJlNmM=",
       "premium": false
+    },{
+      "name": "IR",
+      "description": "[No Description Set]",
+      "icon": "https://cdn.glitch.global/6045212c-5d19-4a0b-8318-212c078291f9/417655c6-4fec-41e1-9c48-4c9649e2f3fb.image.png?v=1685508380199",
+      "appealUrl": "https://ban-appeals.com/insite/ir",
+      "premium": false
     }
-  ]
+]
 }
