@@ -55,14 +55,6 @@
       "icon": "https://cdn.discordapp.com/icons/1006991524527099995/fa4bc332a79eca48b97c872bb853e36e.png",
       "appealUrl": "https://ban-appeals.com/redirect.html?next=aHR0cHM6Ly9keW5vLmdnL2Zvcm0vYjY3NzIyZTQ=",
       "premium": false
-    },
-    {
-      "name": "Rena Network",
-      "description": "Rena Network",
-      "icon": "https://cdn.discordapp.com/icons/990451339005935617/bcde262c1241eee193fb5f79c58e7ab0.webp?size=96",
-      "appealUrl": "https://ban-appeals.com/redirect.html?next=aHR0cHM6Ly9keW5vLmdnL2Zvcm0vN2IyMjBiZjk=",
-      "premium": false
-
     },{
       "name": "Piplup Network",
       "description": "Discord server for proxies and more, welcome to piplup network!",
@@ -71,8 +63,8 @@
       "premium": false
     },{
       "name": "IR",
-      "description": "[No Description Set]",
-      "icon": "https://cdn.glitch.global/6045212c-5d19-4a0b-8318-212c078291f9/417655c6-4fec-41e1-9c48-4c9649e2f3fb.image.png?v=1685508380199",
+      "description": "IR is home to various unblocking & miscellaneous projects such as irunblocked.com and iridium.cx",
+      "icon": "https://cdn.glitch.global/6045212c-5d19-4a0b-8318-212c078291f9/7f70c3ed-b827-4813-829f-403e5bc895b6.image.png?v=1685677903950",
       "appealUrl": "https://ban-appeals.com/insite/ir",
       "premium": false
     }
