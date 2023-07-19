@@ -67,6 +67,12 @@
       "icon": "https://cdn.glitch.global/6045212c-5d19-4a0b-8318-212c078291f9/7f70c3ed-b827-4813-829f-403e5bc895b6.image.png?v=1685677903950",
       "appealUrl": "https://ban-appeals.com/insite/ir",
       "premium": false
+    },{
+      "name": "Bot Tester Fake Server",
+      "description": "Temporary Fake Button for TOP.GG Bot Testers",
+      "icon": "",
+      "appealUrl": "https://ban-appeals.com/redirect.html?next=aHR0cHM6Ly9iYW4tYXBwZWFscy5jb20vdGVtcC9ib3QtdGVzdGVyLmh0bWw=",
+      "premium": false
     }
 ]
 }
