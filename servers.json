@@ -68,10 +68,10 @@
       "appealUrl": "https://ban-appeals.com/insite/ir",
       "premium": false
     },{
-      "name": "Bot Tester Fake Server",
-      "description": "Temporary Fake Button for TOP.GG Bot Testers",
+      "name": "Reserved",
+      "description": "Reserved for Leah's hood",
       "icon": "",
-      "appealUrl": "https://ban-appeals.com/redirect.html?next=aHR0cHM6Ly9iYW4tYXBwZWFscy5jb20vdGVtcC9ib3QtdGVzdGVyLmh0bWw=",
+      "appealUrl": "",
       "premium": false
     }
 ]
