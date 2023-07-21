@@ -3,21 +3,21 @@
     {
       "name": "EchoDev",
       "description": "Your best option for unblocked games on the internet.",
-      "icon": "https://cdn.discordapp.com/icons/971769908205604864/b0923ff73759049c0f25cdfc167fc87a.webp?size=96",
+      "icon": "https://cdn.glitch.global/6045212c-5d19-4a0b-8318-212c078291f9/ecae03ed-8641-4d36-90bb-b80abb6630bf.image.png?v=1688812288517",
       "appealUrl": "https://ban-appeals.com/redirect.html?next=aHR0cHM6Ly9keW5vLmdnL2Zvcm0vYzc5YjNkZTU=",
       "premium": true
     },
     {
       "name": "Shuttle",
       "description": "Shuttle Network is the best proxy Discord server. Our proxies are fast and trusted.",
-      "icon": "https://cdn.discordapp.com/icons/1056203335813824562/a_b95256b359e51d4d9715a77311d71126.webp",
+      "icon": "https://cdn.glitch.global/6045212c-5d19-4a0b-8318-212c078291f9/f0ce0b94-027d-4b42-bd68-81c02c478dff.image.png?v=1688815338715",
       "appealUrl": "https://ban-appeals.com/redirect.html?next=aHR0cHM6Ly9zaHV0dGxlZGV2LnJlcGwuY28vIA==",
       "premium": true
     },
     {
       "name": "Galactic Network",
       "description": "We are one of the best proxy and unblocking communites out there!",
-      "icon": "https://cdn.discordapp.com/icons/837370664909668362/5898e3b781c1307cff345d12f695c00c.png",
+      "icon": "https://cdn.glitch.global/6045212c-5d19-4a0b-8318-212c078291f9/f91931e0-3c42-4457-b940-71f771c19aa6.image.png?v=1688814996151",
       "appealUrl": "https://ban-appeals.com/redirect.html?next=aHR0cHM6Ly9keW5vLmdnL2Zvcm0vYmU4ZDJmZjE=",
       "premium": false
     },
@@ -66,6 +66,12 @@
       "description": "IR is home to various unblocking & miscellaneous projects such as irunblocked.com and iridium.cx",
       "icon": "https://cdn.glitch.global/6045212c-5d19-4a0b-8318-212c078291f9/7f70c3ed-b827-4813-829f-403e5bc895b6.image.png?v=1685677903950",
       "appealUrl": "https://ban-appeals.com/insite/ir",
+      "premium": false
+    },{
+      "name": "Reserved",
+      "description": "Reserved for Leah's hood",
+      "icon": "",
+      "appealUrl": "",
       "premium": false
     }
 ]
