@@ -52,7 +52,7 @@
     {
       "name": "PenguDev",
       "description": "The Official Development Server Of The PenguBot",
-      "icon": "https://cdn.discordapp.com/icons/1006991524527099995/fa4bc332a79eca48b97c872bb853e36e.png",
+      "icon": "https://cdn.discord/app.com/icons/1006991524527099995/fa4bc332a79eca48b97c872bb853e36e.png",
       "appealUrl": "https://ban-appeals.com/redirect.html?next=aHR0cHM6Ly9keW5vLmdnL2Zvcm0vYjY3NzIyZTQ=",
       "premium": false
     },{
@@ -72,6 +72,12 @@
       "description": "Leah’s Hood is a place to hang out with new people and meet the TikToker Leahlxvess",
       "icon": "https://cdn.discordapp.com/icons/1124822424760885309/2eec2a9c8988dfe6b17f9325689cc504.webp?size=96",
       "appealUrl": "https://ban-appeals.com/redirect.html?next=aHR0cHM6Ly9keW5vLmdnL2Zvcm0vZTQyMDFjZDg=",
+      "premium": false
+    },{
+      "name": "DiscordOrdinary",
+      "description": "The official discord server for the TikToker DustinOrdinary",
+      "icon": "via.placeholder.com/200x200",
+      "appealUrl": "https://ban-appeals.com/error/notregistered",
       "premium": false
     }
 ]
