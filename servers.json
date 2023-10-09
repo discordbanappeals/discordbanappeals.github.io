@@ -79,6 +79,12 @@
       "icon": "https://via.placeholder.com/200x200",
       "appealUrl": "https://ban-appeals.com/redirect.html?next=aHR0cHM6Ly9keW5vLmdnL2Zvcm0vY2EyZjdmM2U=",
       "premium": false
+    },{
+      "name": "SafePaw",
+      "description": "",
+      "icon": "https://cdn.discordapp.com/icons/1124822424760885309/2eec2a9c8988dfe6b17f9325689cc504.webp?size=96",
+      "appealUrl": "https://ban-appeals.com/insite/safepaw",
+      "premium": false
     }
 ]
 }
