@@ -85,6 +85,12 @@
       "icon": "",
       "appealUrl": "https://ban-appeals.com/insite/safepaw",
       "premium": false
+    },{
+      "name": "ASYLUM",
+      "description": "A place where you can do a lot of fun stuff.",
+      "icon": "https://https://via.placeholder.com/50x50",
+      "appealUrl": "https://ban-appeals.com/redirect.html?next=aHR0cHM6Ly9kaXNjb3JkLmdnL3VSR3UzV2da",
+      "premium": false
     }
 ]
 }
