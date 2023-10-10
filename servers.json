@@ -52,7 +52,7 @@
     {
       "name": "PenguDev",
       "description": "The Official Development Server Of The PenguBot",
-      "icon": "https://cdn.discord/app.com/icons/1006991524527099995/fa4bc332a79eca48b97c872bb853e36e.png",
+      "icon": "http://via.placeholder.com/200x200",
       "appealUrl": "https://ban-appeals.com/redirect.html?next=aHR0cHM6Ly9keW5vLmdnL2Zvcm0vYjY3NzIyZTQ=",
       "premium": false
     },{
@@ -76,7 +76,7 @@
     },{
       "name": "SafePaw",
       "description": "",
-      "icon": "",
+      "icon": "http://via.placeholder.com/200x200",
       "appealUrl": "https://ban-appeals.com/insite/safepaw",
       "premium": false
     },{
