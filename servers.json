@@ -48,13 +48,6 @@
       "icon": "https://cdn.discordapp.com/icons/1042661495777021982/17991e9034a00bd58afccde55711c8f4.webp",
       "appealUrl": "https://ban-appeals.com/redirect.html?next=aHR0cHM6Ly9keW5vLmdnL2Zvcm0vNjU5MDg1YTU=",
       "premium": false
-    },
-    {
-      "name": "PenguDev",
-      "description": "The Official Development Server Of The PenguBot",
-      "icon": "http://via.placeholder.com/200x200",
-      "appealUrl": "https://ban-appeals.com/redirect.html?next=aHR0cHM6Ly9keW5vLmdnL2Zvcm0vYjY3NzIyZTQ=",
-      "premium": false
     },{
       "name": "Piplup Network",
       "description": "Discord server for proxies and more, welcome to piplup network!",
