@@ -75,8 +75,8 @@
       "premium": false
     },{
       "name": "SafePaw",
-      "description": "https://ban-appeals.com/Creation_sans_titre-dbaiconsafepaw.gif",
-      "icon": "",
+      "description": "",
+      "icon": "https://ban-appeals.com/Creation_sans_titre-dbaiconsafepaw.gif",
       "appealUrl": "https://ban-appeals.com/insite/safepaw",
       "premium": false
     },{
