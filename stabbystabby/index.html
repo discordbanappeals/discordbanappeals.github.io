@@ -1,14 +1,17 @@
-<script>var i = 0;
-var txt = '<a href="https://ban-appeals.com/mike">Who told you about this? How do you know about this? You shouldn't be here.</a>';
+<button onclick="typeWriter()">DO NOT CLICK.</button>
+<p id="demo"></p>
+
+<script>
+var i = 0;
+var txt = 'Who told you about this? How do you know about this? You shouldn't be here.';
 var speed = 50;
 
 function typeWriter() {
   if (i < txt.length) {
-    document.getElementById("typewriter").innerHTML += txt.charAt(i);
+    document.getElementById("demo").innerHTML += txt.charAt(i);
     i++;
     setTimeout(typeWriter, speed);
   }
 }
 </script>
-<p id="typewriter"></p>
-<button onclick="typeWriter()">DO NOT CLICK.</button>
+
