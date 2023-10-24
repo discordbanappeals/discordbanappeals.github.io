@@ -1,17 +1,23 @@
-<button onclick="typeWriter()">DO NOT CLICK.</button>
-<p id="demo"></p>
+<!DOCTYPE html>
+<html>
+<body>
+<button onclick="typeWriter()">Click me</button>
+
+<p id="1927"></p>
 
 <script>
 var i = 0;
-var txt = 'Who told you about this? How do you know about this? You really shouldn't be here.  Please do not go to https://ban-appeals.com/1927';
+var txt = 'How did you find this? Why are you here? Whatever you do, do not go to https://ban-appeals.com/1927';
 var speed = 50;
 
 function typeWriter() {
   if (i < txt.length) {
-    document.getElementById("demo").innerHTML += txt.charAt(i);
+    document.getElementById("1927").innerHTML += txt.charAt(i);
     i++;
     setTimeout(typeWriter, speed);
   }
 }
 </script>
 
+</body>
+</html>
